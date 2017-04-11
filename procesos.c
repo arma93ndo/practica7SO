@@ -15,6 +15,7 @@
 extern char *base;
 extern int idproc;
 
+// COMO CHINGADOS CAMBIA DE PROCESO???
 void proc0()
 {
     char *ptr=NULL;
