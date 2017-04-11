@@ -12,12 +12,12 @@ gcc -o procesos procesos.c mmu.o pagefault.o
 
 Para ejecutarlo en modo normal solamente ejecute el programa procesos:
 
-´´´
+```
 ./procesos
-´´´
+```
 
 Para ejecutarlo en modo de depuración, ejecute el programa procesos añadiendo el parámetro /debug.
 
-´´´
+```
 ./procesos /debug
-´´´
+```
